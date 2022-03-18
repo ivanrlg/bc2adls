@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Microsoft cloud sandbox",
+            "request": "launch",
+            "type": "al",
+            "environmentName":"plure",
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "tenant": "f5d68211-2a97-44dc-8b3b-fdfdf8075073", //mscloud
+            "schemaUpdateMode": "ForceSync",
+            "forceUpgrade": true,
+        }
+    ]
+}
